@@ -1,0 +1,7 @@
+{
+  "name": "formJson",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
